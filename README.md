@@ -1,16 +1,118 @@
-# React + Vite
+# 🪨📄✂️ Stone Paper Scissors Game (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive **Stone Paper Scissors (Rock Paper Scissors)** game built using **React.js**. Play against the computer and test your luck!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 🎮 Play against computer AI
+* ⚡ Instant result display (Win / Lose / Draw)
+* 🔄 Score tracking system
+* 💻 Responsive and clean UI
+* ⚛️ Built using React functional components & hooks
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript (ES6+)
+* CSS
+
+---
+
+## 📂 Project Structure
+
+```
+stone-paper-scissors/
+│── public/
+│── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│── package.json
+│── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```
+git clone https://github.com/pratikshmalik05/stone-paper-scissors.git
+```
+
+2. Navigate into the project folder:
+
+```
+cd stone-paper-scissors
+```
+
+3. Install dependencies:
+
+```
+npm install
+```
+
+4. Start the development server:
+
+```
+npm start
+```
+
+---
+
+## 🎯 How to Play
+
+* Choose **Stone 🪨**, **Paper 📄**, or **Scissors ✂️**
+* The computer will randomly select its choice
+* Result will be displayed:
+
+  * Stone beats Scissors
+  * Scissors beats Paper
+  * Paper beats Stone
+
+---
+
+## 📸 Preview
+
+(Add screenshots here if you want)
+
+---
+
+## 🧠 Future Improvements
+
+* 🔊 Add sound effects
+* 🤖 Improve AI logic
+* 🌐 Multiplayer mode
+* 🎨 Better animations
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+Your Name
+GitHub: https://github.com/your-username
+
+---
+
+⭐ If you like this project, don’t forget to give it a star!
+
+
+
